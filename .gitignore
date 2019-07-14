@@ -9,7 +9,6 @@ work_dirs/
 
 # Distribution / packaging
 .Python
-build/
 develop-eggs/
 dist/
 downloads/
