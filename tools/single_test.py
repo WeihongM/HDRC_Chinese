@@ -19,7 +19,7 @@ post_proce.rm_inter(result)
 
 
 
-# show_result(img, result)
+show_result(img, result)
 
 # test a list of images
 # imgs = ['test1.jpg', 'test2.jpg']
